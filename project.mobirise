@@ -302,7 +302,8 @@
     "chatbutton": {},
     "cssOptimize": true,
     "lazyLoad": false,
-    "pwa-switcher": false
+    "pwa-switcher": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
