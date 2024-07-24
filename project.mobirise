@@ -298,17 +298,22 @@
     "site_lang": "es",
     "mcSmartCart": {
       "currency": "USD"
-    }
+    },
+    "chatbutton": {},
+    "cssOptimize": true,
+    "lazyLoad": false,
+    "pwa-switcher": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "Cámara de Comercio de Economía Circular de Colombia",
-        "meta_descr": "",
+        "meta_descr": "La CCECC es una organización alternativa que ayudará a promover y fomentar prácticas comerciales diferentes, sostenibles y respetuosas con el medioambiente en el país.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/quienes-somos-1-800x533.png"
       },
       "components": [
         {
